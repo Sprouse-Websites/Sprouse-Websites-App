@@ -10,6 +10,6 @@
   "author": "Sprouse Websites",
   "license": "",
   "dependencies": {
-    "electron": "^8.0.3"
+    "electron": "^13.6.6"
   }
 }
