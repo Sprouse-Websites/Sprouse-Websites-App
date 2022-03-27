@@ -1,5 +1,5 @@
 {
-  "name": "sprouse-wwebsites",
+  "name": "sprouse-websites",
   "version": "0.1.0",
   "description": "",
   "main": "main.js",
@@ -7,13 +7,9 @@
     "start": "electron ."
   },
   "repository": "https://github.com/Sprouse-Websites/Sprouse-Websites",
-  "keywords": [
-    "Electron",
-    "quick",
-  ],
   "author": "Sprouse Websites",
   "license": "",
-  "devDependencies": {
+  "dependencies": {
     "electron": "^8.0.3"
   }
 }
